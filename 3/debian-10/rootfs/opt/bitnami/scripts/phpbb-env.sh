@@ -74,9 +74,9 @@ export PHPBB_DATA_TO_PERSIST="${PHPBB_DATA_TO_PERSIST:-store language files imag
 
 # phpBB configuration
 export PHPBB_FORUM_LANGUAGE="${PHPBB_FORUM_LANGUAGE:-en}" # only used during the first initialization
-export PHPBB_FORUM_NAME="${PHPBB_FORUM_NAME:-My forum}" # only used during the first initialization
+export PHPBB_FORUM_NAME="${PHPBB_FORUM_NAME:-Futurama Fans}" # only used during the first initialization
 export PHPBB_COOKIE_SECURE="${PHPBB_COOKIE_SECURE:-false}" # only used during the first initialization
-export PHPBB_FORUM_DESCRIPTION="${PHPBB_FORUM_DESCRIPTION:-A little text to describe your forum}" # only used during the first initialization
+export PHPBB_FORUM_DESCRIPTION="${PHPBB_FORUM_DESCRIPTION:-Futurama Fans Discussion Board!}" # only used during the first initialization
 export PHPBB_FORUM_SERVER_PROTOCOL="${PHPBB_FORUM_SERVER_PROTOCOL:-http://}" # only used during the first initialization
 export PHPBB_FORUM_SERVER_PORT="${PHPBB_FORUM_SERVER_PORT:-80}" # only used during the first initialization
 export PHPBB_DISABLE_SESSION_VALIDATION="${PHPBB_DISABLE_SESSION_VALIDATION:-false}" # only used during the first initialization
